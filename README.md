@@ -11,7 +11,7 @@ Driver for nonvolatile digital potentiometer DS3502.
 ## Installation
 
 ```sh
-idf.py add-dependency "esp-idf-lib/ds3502^1.0.0
+idf.py add-dependency esp-idf-lib/ds3502^1.0.0
 ```
 
 ## Support
