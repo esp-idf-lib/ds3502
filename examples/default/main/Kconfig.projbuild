@@ -15,5 +15,5 @@ menu "Example configuration"
             bool "DS3502_ADDR_0 (0x2b)"
     endchoice
 
-    rsource "../../../../devtools/Kconfig.i2c"
+    rsource "../../../Kconfig.i2c"
 endmenu
