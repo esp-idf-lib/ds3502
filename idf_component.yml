@@ -1,5 +1,5 @@
 ---
-version: 1.0.2
+version: 1.0.3
 description: Driver for nonvolatile digital potentiometer DS3502
 license: BSD-3
 targets:
